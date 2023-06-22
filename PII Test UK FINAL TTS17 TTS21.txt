@@ -1,0 +1,18 @@
+PII Test data UK
+Email Address alan@waggott.com
+Alan Waggott
+National insurance JM008084B
+Banking 
+Bank account 83389254
+Sort Code 20-70-94
+
+Date of Birth 24-10-1995
+
+Adding other data to test Passport & Driving license
+
+Passport Number – 102865232
+
+Driving Licence 
+AGGOW822402A99PL
+
+Added Keywords to Drivers licence dictionary 

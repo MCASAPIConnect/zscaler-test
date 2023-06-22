@@ -1,0 +1,19 @@
+PII Test data UK – Removed
+Email Address alan@waggott.com
+Alan Waggott
+
+Added Keywords to Drivers licence dictionary 
+
+Adding Danish PII 
+Driving
+officielt kort AGGOW822402A99PL
+Tax ID 
+centrale personregister 01016011-11 
+skat kode 581-672-1175
+Banking
+kontonummer 4123 7568 9012
+kontonr 12340012345678
+CPR Sundhedskort
+CPR-normu 123456-1234
+Passport
+Pasnummer 108062532

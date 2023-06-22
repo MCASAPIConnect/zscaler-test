@@ -1,0 +1,18 @@
+Testing credit cards
+
+
+Credit Card number 
+Mr Alan Waggott
+5355220401839661
+Expiry 04/23
+CVV 577
+Mastercard 
+Email – alan@waggott.com
+Testing sharing of PCI data 
+Redefined policy 
+Removing Keyword
+Removed names from policy and BIN from Card DI 
+Moved credit card to medium. 
+Removed Regex from driving licence keywords
+Moved credit card to High with proximity of 100 characters
+
